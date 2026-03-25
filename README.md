@@ -1,1 +1,2 @@
 This is an introduction to a machine learning project completed by a beginner in PyTorch and machine learning, who independently participated in the well-known Titanic machine learning competition on Kaggle. The entire project includes dataset preprocessing, training a binary classification model using PyTorch, and finally generating prediction outputs for the test dataset
+By the way, it's incredibly powerful!
